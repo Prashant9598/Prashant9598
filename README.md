@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Django, Frappe, Angular, and REST APIs**
 
-- 💌 Reach me at **prashantpandey@example.com**
+- 📧 Reach me at: [pandeyprashant9598@gmail.com](mailto:pandeyprashant9598@gmail.com)
 
 - 💡 Fun fact: **I love automating complex processes and improving efficiency!**
 
