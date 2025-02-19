@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantpandey" alt="prashantpandey" /> </p>
 
-- 💡 **Experienced software developer with 2.6 years of expertise in Python, Django, and REST API development**
+- 💡 **Experienced software developer with 2.9 years of expertise in Python, Django, and REST API development**
 
 - 🔧 **Skilled in backend development, cloud deployment (AWS, Azure), and database design**
 
