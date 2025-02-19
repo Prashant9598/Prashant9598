@@ -35,11 +35,40 @@
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Key Projects:</h3>
-<ul>
-    <li><strong>WiseCRM (Resource Management Software)</strong> - Built a scalable backend and collaborated with frontend developers for seamless integration.</li>
-    <li><strong>Wisedoc (AI-Driven Document Management)</strong> - Developed a Flask-based backend for secure document management.</li>
-    <li><strong>Esarwa (Accounting Software)</strong> - Designed a secure backend, integrated third-party APIs, and deployed on AWS.</li>
-    <li><strong>Warehouse Management Software</strong> - Deployed on Azure, designed reports using Angular, and led a development team.</li>
-    <li><strong>Society Management Software</strong> - Automated accounting calculations and developed a scalable backend.</li>
-</ul>
+
+## 💼 Experience  
+
+### **Wissen Technology**  
+**Associate Software Engineer** _(Aug 2024 – Present)_  
+
+### **Myrah Consulting Services**  
+**Software Developer** _(May 2022 – Aug 2024)_  
+
+---
+
+## 🔑 Key Projects  
+
+### 🏢 **WiseCRM (Resource Management Software)**  
+- Developed a **scalable backend** to manage resources and track productivity.  
+- Collaborated with frontend developers for seamless API integration and improved user experience.  
+
+### 📄 **Wisedoc (AI-Driven Document Management)**  
+- Built **secure and scalable** backend architecture using Flask.  
+- Developed an AI-powered solution that helps organizations efficiently manage and process documents.  
+
+### 💰 **Esarwa (Accounting Software)**  
+- Designed and implemented a **robust and scalable backend**, ensuring bank-grade security.  
+- Integrated **e-invoice and e-waybill APIs**, reducing processing time significantly.  
+- Deployed the system on AWS with **S3 integration** for enhanced performance.  
+
+### 📦 **Warehouse Management Software**  
+- Developed backend logic and deployed the application on **Azure**.  
+- Led a **team of three developers**, ensuring timely delivery and high performance.  
+- Designed interactive reports using **Angular** for better data visualization.  
+
+### 🏡 **Society Management Software**  
+- Automated complex **accounting calculations**, reducing manual errors.  
+- Designed a **secure and scalable database** for future expansion.  
+- Managed a team of **five developers**, ensuring efficient project execution.  
+
+---
